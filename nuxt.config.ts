@@ -51,7 +51,10 @@ export default defineNuxtConfig({
     },
   },
   image: {
-    provider: "static",
+    provider: "netlify",
+    netlify: {
+      baseURl: process.env.IMAGES_URL,
+    },
     ipx: {
       modifiers: {
         format: "webp",
