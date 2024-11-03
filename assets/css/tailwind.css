@@ -4,25 +4,23 @@
 
 /* Styl dla dark mode */
 html.dark {
-  scrollbar-color: #444 #1f1f1f; /* FireFox: kolor uchwytu paska, kolor tła paska */
+  scrollbar-color: #444 #1f1f1f;
 }
 
-/* WebKit Scrollbar (Chrome, Safari, Edge) */
 html.dark::-webkit-scrollbar {
-  width: 12px; /* Szerokość paska przewijania */
+  width: 12px;
 }
 
 html.dark::-webkit-scrollbar-track {
-  background: #1f1f1f; /* Kolor tła paska */
+  background: #1f1f1f;
 }
 
 html.dark::-webkit-scrollbar-thumb {
-  background-color: #444; /* Kolor uchwytu */
-  border-radius: 10px; /* Zaokrąglenie */
-  border: 2px solid #1f1f1f; /* Odstęp wokół uchwytu */
+  background-color: #444;
+  border-radius: 10px;
+  border: 2px solid #1f1f1f;
 }
 
-/* Możesz dodać hover efekt, aby zmieniać kolor uchwytu przy najechaniu */
 html.dark::-webkit-scrollbar-thumb:hover {
   background-color: #555;
 }
