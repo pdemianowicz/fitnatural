@@ -57,21 +57,21 @@
         <div class="border-b-2 border-neutral-300 dark:border-neutral-700">
           <div class="flex items-center justify-between">
             <span class="font-medium text-gray-700 dark:text-neutral-200">Metabolizm podstawowy</span>
-            <a href="/" class="text-blue-500 font-medium text-sm">Wyjaśnienie</a>
+            <a href="#info" class="text-blue-500 font-medium text-sm">Wyjaśnienie</a>
           </div>
           <span class="block text-center font-bold text-3xl my-4">{{ bmr }} kcal</span>
         </div>
         <div class="border-b-2 border-neutral-300 dark:border-neutral-700">
           <div class="flex items-center justify-between">
             <span class="font-medium text-gray-700 dark:text-neutral-200">Wskaźnik BMI</span>
-            <a href="/" class="text-blue-500 font-medium text-sm">Wyjaśnienie</a>
+            <a href="#info" class="text-blue-500 font-medium text-sm">Wyjaśnienie</a>
           </div>
           <span class="block text-center font-bold text-3xl my-4">{{ bmi }}</span>
         </div>
         <div>
           <div class="flex items-center justify-between">
-            <span class="font-medium text-gray-700 dark:text-neutral-200">Zalecane dzienne spożycie kalorii</span>
-            <a href="/" class="text-blue-500 font-medium text-sm">Wyjaśnienie</a>
+            <span class="font-medium text-gray-700 dark:text-neutral-200">Zalecane dzienne spożycie kalorii*</span>
+            <a href="#info" class="text-blue-500 font-medium text-sm">Wyjaśnienie</a>
           </div>
           <div class="flex flex-col my-4">
             <div class="flex">
@@ -97,14 +97,36 @@
         </div>
       </div>
     </div>
+    <div id="info" class="max-w-[700px] my-8">
+      <h2 class="font-bold text-3xl mt-8">Objaśnienie</h2>
+      <h3 class="font-bold text-xl mt-8">Metabolizm podstawowy</h3>
+      <p class="mt-4">
+        Podstawowy metabolizm (BMR) to energia, jaką organizm musi wyprodukować, aby w stanie spoczynku, czyli bez jakiejkolwiek dziennej aktywności,
+        utrzymywać wszystkie funkcje życiowe.
+      </p>
+      <h3 class="font-bold text-xl mt-8">Wskaźnik BMI</h3>
+      <p class="mt-4">
+        Wskaźnik masy ciała, zwykle oznaczany skrótem BMI (z angielskiego body mass index) jest liczbą stosowaną do określania niedowagi, normalnej
+        masy ciała, nadwagi i otyłości.
+      </p>
+      <h3 class="font-bold text-xl mt-8">Makroelementy</h3>
+      <p class="mt-4">
+        Główne składniki odżywcze, które otrzymujemy z naszej diety i od których zależy funkcjonowanie organizmu. Są to białka, węglowodany i
+        tłuszcze.
+      </p>
+      <h3 class="font-bold text-xl mt-8">Zalecane dzienne spożycie kalorii*</h3>
+      <p class="mt-4">
+        Są to orientacyjne wyliczenia, które mogą różnić się u poszczególnych osób ze względu na indywidualne cechy i parametry dodatkowe.
+      </p>
+    </div>
   </div>
 </template>
 
 <script setup>
-const gender = ref("male");
-const age = ref(24);
-const height = ref(191);
-const weight = ref(74);
+const gender = ref("female");
+const age = ref(34);
+const height = ref(160);
+const weight = ref(94);
 const openSelect = ref(false);
 const activityLevel = ref(1.55);
 const activityLevels = ref([
