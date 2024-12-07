@@ -1,7 +1,7 @@
 ---
 title: 10 przykładów dobrze wykonanego projektu bloga oraz wskazówki, jak stworzyć własny
 description: Jeśli chodzi o projektowanie bloga, należy dokładnie rozważyć wiele różnych elementów, aby był on zarówno atrakcyjny wizualnie, jak i funkcjonalny. Ogólny układ i struktura Twojego bloga to jeden z najważniejszych aspektów
-date: 11-10-2024
+date: 01-10-2024
 cover: clement-helardot-95YRwf6CNw8-unsplash.jpg
 tags: [Nuxt, Vue]
 category: [Poradnik]

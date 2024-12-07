@@ -52,7 +52,7 @@ const { data: posts } = await useAsyncData("posts", () => {
       }
 
       p {
-        @apply line-clamp-none;
+        @apply line-clamp-6;
       }
     }
   }

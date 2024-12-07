@@ -1,8 +1,8 @@
 ---
 title: Nuxt - 3 - intro
 description: This is a quick introduction on how to get started with Nuxt 3. To get started you need to have Node.js installed on your machine. You can
-date: 12-11-2024
-cover: clement-helardot-95YRwf6CNw8-unsplash.jpg
+date: 01-01-2024
+cover: nuxt-3.jpg
 tags: [Nuxt, Vue]
 category: [Frontend]
 ---

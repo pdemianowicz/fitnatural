@@ -15,7 +15,7 @@ Jeśli jesteś zapracowany i brakuje Ci czasu na przygotowanie zdrowego śniadan
 
 ## 1. Owsianka z Owocami i Orzechami
 
-![Owsianka z Owocami i Orzechami](/images/blog/owsianka.jpg "Owsianka z Owocami i Orzechami")
+<Image2 src="/images/blog/owsianka.jpg" alt="Owsianka z Owocami i Orzechami"></Image2>
 
 Owsianka to klasyka zdrowego śniadania – szybka, pożywna, i dająca nieograniczone możliwości kombinacji smakowych. Oto przepis na szybkie przygotowanie zdrowej owsianki.
 
@@ -46,7 +46,7 @@ Owsianka dostarcza błonnika i stabilizuje poziom cukru we krwi, dzięki czemu u
 
 ## 2. Tosty z Awokado i Jajkiem
 
-![Tosty z Awokado i Jajkiem](/images/blog/tosty.jpg "Tosty z Awokado i Jajkiem")
+<Image2 src="/images/blog/tosty.jpg" alt="Tosty z Awokado i Jajkiem"></Image2>
 
 Tosty z awokado i jajkiem są nie tylko pyszne, ale także pełne zdrowych tłuszczów i białka. Idealne na szybkie, sycące śniadanie.
 
@@ -78,7 +78,7 @@ Awokado jest źródłem zdrowych tłuszczów, które wspierają pracę serca i m
 
 ## 3. Smoothie z Jarmużem i Bananem
 
-![Smoothie z Jarmużem i Bananem](/images/blog/smoothie.jpg "Smoothie z Jarmużem i Bananem")
+<Image2 src="/images/blog/smoothie.jpg" alt="Smoothie z Jarmużem i Bananem"></Image2>
 
 Smoothie to jedno z najszybszych śniadań – wystarczy wrzucić składniki do blendera i gotowe! Połączenie jarmużu i banana zapewni Ci dawkę energii i zdrowych składników odżywczych.
 
@@ -108,7 +108,7 @@ Jarmuż jest bogaty w witaminy A, C oraz K, a także antyoksydanty, które wspie
 
 ## 4. Jogurt Grecki z Muesli i Owocami
 
-![Jogurt Grecki z Muesli i Owocami](/images/blog/jogurt.jpg "Jogurt Grecki z Muesli i Owocami")
+<Image2 src="/images/blog/jogurt.jpg" alt="Jogurt Grecki z Muesli i Owocami"></Image2>
 
 Ten przepis to doskonały wybór dla tych, którzy potrzebują śniadania "na wynos". Jogurt grecki, muesli i owoce są świetnym połączeniem smaku i wartości odżywczych.
 
@@ -137,7 +137,7 @@ Jogurt grecki jest źródłem białka i probiotyków, które wspierają zdrowie 
 
 ## 5. Omlet z Warzywami
 
-![Omlet z Warzywami](/images/blog/omlet.jpg "Omlet z Warzywami")
+<Image2 src="/images/blog/omlet.jpg" alt="Omlet z Warzywami"></Image2>
 
 Omlet to klasyczne śniadanie, które można przygotować w ekspresowym tempie. Jest idealny, jeśli potrzebujesz białkowego posiłku, który nasyci Cię na długi czas.
 
